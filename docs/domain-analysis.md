@@ -157,12 +157,12 @@ The initial domain includes the following physical quantities:
 
 | Quantity | Symbol | SI unit | Physical dimension |
 |---|---|---|---|
-| Time | t | second (s) | T |
-| Position | x | metre (m) | L |
-| Velocity | v | metre per second (m/s) | L T^-1 |
-| Acceleration | a | metre per second squared (m/s^2) | L T^-2 |
-| Mass | m | kilogram (kg) | M |
-| Force | F | newton (N) | M L T^-2 |
+| Time | \(t\) | second (s) | \(T\) |
+| Position | \(x\) | metre (m) | \(L\) |
+| Velocity | \(v\) | metre per second (m/s) | \(LT^{-1}\) |
+| Acceleration | \(a\) | metre per second squared (m/s²) | \(LT^{-2}\) |
+| Mass | \(m\) | kilogram (kg) | \(M\) |
+| Force | \(F\) | newton (N) | \(MLT^{-2}\) |
 
 Position, velocity, acceleration, and force are spatial vectors in the selected spatial dimension. Mass and time are scalar quantities.
 
